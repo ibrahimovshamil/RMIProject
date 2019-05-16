@@ -1,4 +1,5 @@
-Since I uploaded it late, I tried to make it fanicer a bit.
+Distributed matching system which matches 2 users based on their wait time.
+Inspired by https://www.youtube.com/watch?v=Djf89MG7CcA&t=73s
 Basically to be able to run the program you need to open at least 4 terminals
 
 1) cd to bin folder and
@@ -25,5 +26,3 @@ java RMIClient.UserClientDriver B
 // Basically you need to open new client every time and by giving their timeouts 
 // program will try to match them and send handshakes to each other.
 // Also terminals show the flow of the program. 
-
-Best Regards Shamil Ibrahimov
